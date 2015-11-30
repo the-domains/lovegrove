@@ -1,7 +1,7 @@
 name: Lovegrove
 favicon: null
-layout_spectrum: 0.61554
-typography_spectrum: 0.22497
+layout_spectrum: 0.62285
+typography_spectrum: 0.49779
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.29185343137942255
+    - '#ffffff'
+    - '#e62400'
+    - '#080d07'
+    - '#93a853'
+    - '#636661'
+  brandStrength: 0.5
   lightness: 0.9875446786172688
-  saturation: 0.2822735963854939
-  rhythmicContrast: 0.23779489961452782
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
