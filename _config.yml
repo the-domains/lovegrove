@@ -1,4 +1,4 @@
-name: Lovegrove
+name: Lovegrove Executive Teams
 favicon: null
 layout_spectrum: 0.62285
 typography_spectrum: 0.49779
@@ -22,7 +22,7 @@ color:
     - '#4cb8d1'
     - '#080d07'
   brandStrength: 0.5
-  lightness: 0.9875446786172688
-  saturation: 0.3125
+  lightness: 0.5
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
