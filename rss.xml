@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lovegrove Executive Teams]]></title>
         <description><![CDATA[Lovegrove Executive Teams]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lovegrove/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 12:34:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 12:42:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lovegrove/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Drive the business forward]]></title>
+            <description><![CDATA[<article><h1>Drive the business forward</h1><p>Do you want to know how you can build a team that is focused, confident and effective - and that actually improves as a unit day by day?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43e7801036fcc7b4ad42277f2fd48f59287e9b5f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lovegrove/drive-the-business-forward/index.html</link>
+            <guid isPermaLink="false">8aa4ea58-9738-485f-87e2-dd3febdba88e</guid>
+            <pubDate>Sun, 10 Apr 2016 12:42:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[using]]></title>
             <description><![CDATA[<h1>using</h1>]]></description>
-            <link>undefinedusing/index.html</link>
+            <link>https://thegrid.ai/lovegrove/using/index.html</link>
             <guid isPermaLink="false">0a14676d-c28c-4f50-839a-d0092b60ba45</guid>
             <pubDate>Sun, 10 Apr 2016 12:34:06 GMT</pubDate>
         </item>
