@@ -1,9 +1,11 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: en
-starred: true
+author: []
+related: []
+publisher:
+  url: 'https://simonlovegrove.sendmedetails.com'
+  name: Sendmedetails
+  favicon: null
+  domain: simonlovegrove.sendmedetails.com
 keywords:
   - team
   - effective
@@ -16,21 +18,17 @@ keywords:
   - together
   - direction
 description: 'Do you want to know how you can build a team that is focused, confident and effective - and that actually improves as a unit day by day?'
-datePublished: '2016-04-10T12:42:31.904Z'
-dateModified: '2016-04-10T12:41:34.048Z'
-author: []
-related: []
+inLanguage: en
 app_links: []
+isBasedOnUrl: 'https://simonlovegrove.sendmedetails.com/drive-the-business-forward'
 title: Drive the business forward
-authors: []
-publisher:
-  name: Sendmedetails
-  domain: www.contactually.com
-  url: 'https://simonlovegrove.sendmedetails.com'
-  favicon: null
+datePublished: '2016-04-10T12:47:26.910Z'
+dateModified: '2016-04-10T12:46:03.400Z'
 sourcePath: _posts/2016-04-10-drive-the-business-forward.md
 published: true
-url: drive-the-business-forward/index.html
+inFeed: true
+hasPage: false
+inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
