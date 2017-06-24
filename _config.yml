@@ -1,28 +1,46 @@
-name: Lovegrove Executive Teams
-favicon: null
-layout_spectrum: 0.5
-typography_spectrum: 0.81428
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.49070494754783955
+typography_spectrum: 0.16673801891994433
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.007060566852514697
+  lightness: 0.9009876921759126
+  saturation: 0.8386888482005769
+  rhythmicContrast: 0.6560818181396232
+content_rating:
+  adult: false
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#e62400'
-    - '#636661'
-    - '#4cb8d1'
-    - '#080d07'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.5
-purpose: []
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Simon Lovegrove
+  email: simon+gridLsvce@lovegrove.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffa1d5df-7701-42f9-af24-927c453360d5.png
+name: Lovegrove Executive Teams
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/63b51354-522e-4175-8511-474e2e5c2578.jpg
+title: Lovegrove Executive Teams
+purpose:
+  - type: contact
+    url: 'mailto:simon@lovegrove.com'
+    label: Contact me
+  - type: contact
+    url: 'tel:+447980008671'
+    label: Call +447980008671
+content: []
+description: Build High Value Companies
+github: true
